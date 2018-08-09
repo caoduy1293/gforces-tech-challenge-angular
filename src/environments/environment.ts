@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  googleBookAPI: 'AIzaSyALsm2ufjgvzQyCV-nFscm4cJN922TbhCc',
+  googleBookAPI: 'YOUR_GOOGLE_API',
 };
